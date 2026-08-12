@@ -1,12 +1,12 @@
 # Hi, I'm Thomas
 
-RF and embedded systems engineer working on space communication and navigation — from search-and-rescue beacons to software-defined radio.
+RF and embedded systems engineer working on space communication and navigation, from search-and-rescue beacons to software-defined radio.
 
-**Currently:** Doctoral Researcher at [IDLab (UGent – imec)](https://idlab.ugent.be/home), building an FPGA-based Wi-Fi 6 PHY on the open-source [OpenWiFi](https://github.com/open-sdr/openwifi) platform — real-time DSP on FPGAs, PHY architecture, and hardware/software co-design.
+**Currently:** Doctoral Researcher at IDLab (Ghent University - imec), building an FPGA-based Wi-Fi 6 PHY on the open-source [OpenWiFi](https://github.com/open-sdr/openwifi) platform. Real-time DSP on FPGAs, PHY architecture, and hardware/software co-design.
 
 **Previously:** Five years at NASA Goddard and The Aerospace Corporation. Led development of the lunar search-and-rescue (SAR) navigation beacon architecture, designed and laid out space-rated PCBs and bare-metal ARM flight software, and halved SAR beacon positioning error by applying Unscented Kalman Filters to rescue beacon localization.
 
-I'm a U.S. citizen currently based in Ghent, Belgium, and open to relocating to the U.S.
+I'm a U.S. citizen currently based in Ghent, Belgium.
 
 ### What I work on
 - RF & PCB hardware design
@@ -20,6 +20,3 @@ I'm a U.S. citizen currently based in Ghent, Belgium, and open to relocating to 
 - 📄 [ORCID](https://orcid.org/0000-0003-2943-6871)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=TvN3syEAAAAJ)
 - ✉️ thomasmontano@protonmail.com
-
----
-**Pinned below:** [Radio_Puck](https://github.com/thomas-montano/Radio_Puck), a full-duplex STM32 RF board, and the [rocket telemetry PCB](https://github.com/MSTRocketDesignTeam/Avionics-Telemetry-PCB) I built with the Missouri S&T rocket team — hardware and firmware I built outside of institutional work.
