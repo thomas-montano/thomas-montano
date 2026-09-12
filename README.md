@@ -12,11 +12,9 @@ I'm a U.S. citizen currently based in Ghent, Belgium.
 - RF & PCB hardware design
 - FPGA / DSP implementation
 - Navigation, link budgets, and system modeling
-- Search-and-rescue localization (Kalman filtering)
 - Space comm/nav payloads for lunar and deep-space missions
 
 ### Find me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/montanothomas/)
 - 📄 [ORCID](https://orcid.org/0000-0003-2943-6871)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=TvN3syEAAAAJ)
 - ✉️ thomasmontano@protonmail.com
