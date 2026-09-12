@@ -1,6 +1,6 @@
 # Hi, I'm Thomas
 
-RF and embedded systems engineer working on space communication and navigation, from search-and-rescue beacons to software-defined radio.
+RF & Digital Payload Engineer working on space communication and navigation, from search-and-rescue beacons to software-defined radios.
 
 **Currently:** Doctoral Researcher at IDLab (Ghent University - imec), building an FPGA-based SDR on the open-source [OpenWiFi](https://github.com/open-sdr/openwifi) platform. Real-time DSP on FPGAs, PHY architecture, and hardware/software co-design.
 
