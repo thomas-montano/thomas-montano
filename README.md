@@ -6,8 +6,6 @@ I'm an RF & Digital Payload Engineer working on space communication and navigati
 
 **Previously:** Five years at NASA Goddard and The Aerospace Corporation. Led development of the lunar search-and-rescue (SAR) navigation beacon architecture, designed and laid out space-rated PCBs and bare-metal ARM flight software, and halved SAR beacon positioning error by applying Unscented Kalman Filters to rescue beacon localization.
 
-I'm a U.S. citizen currently based in Ghent, Belgium.
-
 ### What I work on
 - RF & PCB hardware design
 - FPGA / DSP implementation
@@ -17,4 +15,3 @@ I'm a U.S. citizen currently based in Ghent, Belgium.
 ### Find me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/montanothomas/)
 - 📄 [ORCID](https://orcid.org/0000-0003-2943-6871)
-- ✉️ thomasmontano@protonmail.com
